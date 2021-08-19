@@ -64,13 +64,13 @@ public class MainActivity extends AppCompatActivity {
         switch(checkId){
 
             case R.id.CADButton:
-                result = 1.35;
+                result = 1.40;
                 break;
             case R.id.YENButton:
-                result = 109.54;
+                result = 110.54;
                 break;
             case R.id.EURButton:
-                result = 0.90;
+                result = 0.87;
                 break;
         }
 
